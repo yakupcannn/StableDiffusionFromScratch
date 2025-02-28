@@ -18,9 +18,14 @@ Stable Diffusion is a strategy to create new images from random noise or given i
 - download requirements using requirements.txt (pip install -r requirements.txt)
 - Ready to use
 
+## Download Pretrained Weights and Tokenizer Files
+- Download "vocab.json" and "merges.txt" from https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main/tokenizer and save them in the data folder
+- Download "v1-5-pruned-emaonly.ckpt" from https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main and save it in the data folder
+
   ## Sources
   - "https://www.youtube.com/watch?v=ZBKpAp_6TGI&t=17510s&ab_channel=UmarJamil"
   - "https://arxiv.org/pdf/2006.11239"
+  
 
 
 
